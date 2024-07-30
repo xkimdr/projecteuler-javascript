@@ -1,0 +1,21 @@
+{
+  "name": "projecteuler-javascript",
+  "version": "1.0.0",
+  "description": "Solutions of problems from projecteuler in JavaScript.",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xkimdr/projecteuler-javascript.git"
+  },
+  "author": "Amit Srivastava",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/xkimdr/projecteuler-javascript/issues"
+  },
+  "homepage": "https://github.com/xkimdr/projecteuler-javascript#readme"
+}
