@@ -1,6 +1,6 @@
-# projecteuler-rust
+# projecteuler-javascript
 
-Solutions of problems from projecteuler in Rust
+Solutions of problems from projecteuler in JavaScript
 
 ## Problem 1
 
